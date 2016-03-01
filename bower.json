@@ -1,0 +1,22 @@
+{
+  "name": "site",
+  "homepage": "https://github.com/inga030395/site",
+  "authors": [
+    "inga030395 <ivanuska62@inbox.lv>"
+  ],
+  "description": "",
+  "main": "inde.html",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
